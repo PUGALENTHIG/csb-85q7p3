@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://pugalenthig.github.io/csb-85q7p3/static/css/main.02166abc.chunk.css",
+    "main.js": "https://pugalenthig.github.io/csb-85q7p3/static/js/main.d92075cd.chunk.js",
+    "main.js.map": "https://pugalenthig.github.io/csb-85q7p3/static/js/main.d92075cd.chunk.js.map",
+    "runtime-main.js": "https://pugalenthig.github.io/csb-85q7p3/static/js/runtime-main.e118621c.js",
+    "runtime-main.js.map": "https://pugalenthig.github.io/csb-85q7p3/static/js/runtime-main.e118621c.js.map",
+    "static/css/2.49c3bc80.chunk.css": "https://pugalenthig.github.io/csb-85q7p3/static/css/2.49c3bc80.chunk.css",
+    "static/js/2.9436b832.chunk.js": "https://pugalenthig.github.io/csb-85q7p3/static/js/2.9436b832.chunk.js",
+    "static/js/2.9436b832.chunk.js.map": "https://pugalenthig.github.io/csb-85q7p3/static/js/2.9436b832.chunk.js.map",
+    "index.html": "https://pugalenthig.github.io/csb-85q7p3/index.html",
+    "static/css/2.49c3bc80.chunk.css.map": "https://pugalenthig.github.io/csb-85q7p3/static/css/2.49c3bc80.chunk.css.map",
+    "static/css/main.02166abc.chunk.css.map": "https://pugalenthig.github.io/csb-85q7p3/static/css/main.02166abc.chunk.css.map",
+    "static/js/2.9436b832.chunk.js.LICENSE.txt": "https://pugalenthig.github.io/csb-85q7p3/static/js/2.9436b832.chunk.js.LICENSE.txt",
+    "static/media/delivery-guy.c0194ba7.png": "https://pugalenthig.github.io/csb-85q7p3/static/media/delivery-guy.c0194ba7.png",
+    "static/media/product_2.1.f1538554.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_2.1.f1538554.jpg",
+    "static/media/product_2.2.4967c9cb.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_2.2.4967c9cb.jpg",
+    "static/media/product_2.3.3914f9eb.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_2.3.3914f9eb.jpg",
+    "static/media/product_3.1.9c207cdf.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_3.1.9c207cdf.jpg",
+    "static/media/product_3.2.ebcb16b5.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_3.2.ebcb16b5.jpg",
+    "static/media/product_3.3.f482f459.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_3.3.f482f459.jpg",
+    "static/media/product_4.1.3c8ecc49.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_4.1.3c8ecc49.jpg",
+    "static/media/product_4.2.e82e43e0.jpg": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_4.2.e82e43e0.jpg",
+    "static/media/product_4.3.2df1cebb.png": "https://pugalenthig.github.io/csb-85q7p3/static/media/product_4.3.2df1cebb.png",
+    "static/media/remixicon.css": "https://pugalenthig.github.io/csb-85q7p3/static/media/remixicon.f2616f59.ttf",
+    "static/media/res-logo.2f9021c4.png": "https://pugalenthig.github.io/csb-85q7p3/static/media/res-logo.2f9021c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e118621c.js",
+    "static/css/2.49c3bc80.chunk.css",
+    "static/js/2.9436b832.chunk.js",
+    "static/css/main.02166abc.chunk.css",
+    "static/js/main.d92075cd.chunk.js"
+  ]
+}
